@@ -1,4 +1,4 @@
-# FoodSoft
+# FoodSoft - Software Engineering
 - University project - Desktop software to assist small restaurants with their inventory
 - Language programming: C# .Net
 - Database: Microsoft SQL Server
