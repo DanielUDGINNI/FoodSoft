@@ -1,0 +1,6 @@
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.Form1.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.csproj.GenerateResource.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.AssemblyInfoInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.AssemblyInfo.cs
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\SEM iNG SOFT 1\foodsoft\obj\Debug\net6.0-windows\foodsoft.csproj.CoreCompileInputs.cache
